@@ -1,4 +1,4 @@
-# <span style='color: Red'>BUTTONS-WEB</span>
+# BUTTONS-WEB
 
 Es una herramienta para analizar si los botones en tu pagina web todos contienen una redirección. Esta te devolvera un archivo txt con la informacion! 
 
